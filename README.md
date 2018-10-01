@@ -3,7 +3,7 @@
 (daf = *Deutsch als Fremdsprache*)
 
 Das Script **rundaf.pl** erzeugt zufallsgenerierte Aphorismen indem das DAF-Basis-Vokabular mit Aphorismen einiger herausragender deutschen Denker (inkl. zweier Vertreter des *erweiterten deutschen Kulturkreises* i.e. das *Abendland*) gekreuzt werden.
-Die Auswahl des Vokabulars oblag nicht mir. Die Auswahl der Sprüche hingegen schon. Dabei richtete sich mein Fokus auf solche, die a) als besonders *deutsch* gelten können und b) besonders makaber oder irgendwie anders Kontraste zum Thema der Flüchtlingskrise und besonders zu den betroffenen Menschen eben zu jenen, die in DAF-Kursen sitzen und schwitzen, ausschwitzen.
+Die Auswahl des Vokabulars oblag nicht mir. Die Auswahl der Sprüche hingegen schon. Dabei richtete sich mein Fokus auf solche, die a) als besonders *deutsch* gelten können und b) besonders makaber oder irgendwie anders Kontraste zum Thema der Flüchtlingskrise allgemein und besonders zu denen, die in DAF-Kursen sitzen und schwitzen, ausschwitzen.
 
 # Installation
 
