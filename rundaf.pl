@@ -12,21 +12,18 @@
 # adriangiacomelli@icloud.com
 #
 
-# Das Script rundaf.pl erzeugt zufallsgenerierte Aphorismen indem das DAF-Basis-Vokabular mit Aphorismen einiger herausragender deutschen Denker (inkl. zweier Vertreter des erweiterten deutschen Kulturkreises i.e. das Abendland) gekreuzt werden. 
+# Das Script rundaf.pl erzeugt zufallsgenerierte Aphorismen indem das DAF-Basis-Vokabular mit Aphorismen 
+# einiger herausragender deutschen Denker (inkl. zweier Vertreter des erweiterten deutschen Kulturkreises i.e. 
+# das Abendland) gekreuzt werden. 
 # Die Auswahl des Vokabulars oblag nicht mir. Die Auswahl der Sprüche hingegen schon. 
-# Dabei richtete sich mein Fokus auf solche, die a) als besonders deutsch gelten können und b) besonders makaber oder irgendwie anders Kontraste zum Thema der Flüchtlingskrise allgemein und besonders zu denen, die in DAF-Kursen sitzen und schwitzen, ausschwitzen.
+# Dabei richtete sich mein Fokus auf solche, die a) als besonders deutsch gelten können und b) besonders makaber oder 
+# irgendwie anders zum Thema der Flüchtlingskrise allgemein und besonders zu denen, die in DAF-Kursen sitzen 
+# und schwitzen, Kontraste ausschwitzen.
 
-
-my @maskulina;
-my @maskuli;
-my @genitivmaskulina;
-my @feminina;
-my @femininas;
-my @neutra;
-my @neutronen;
-my @genitivneutra;
+my @maskulina; my @maskuli; my @genitivmaskulina;
+my @feminina; my @femininas;
+my @neutra; my @neutronen; my @genitivneutra;
 my @verben;
-my $trans;
 my $A =  "Aristoteles";
 my $TA = "Theodor W. Adorno";
 my $F =  "Theodor Fontane";
@@ -45,6 +42,7 @@ my $SH = "Schopenhauer";
 my $ST = "Theodor Storm";
 my $W =  "Wittgenstein";
 my $epi = "- Frei nach";
+my $trans;
 
 #########################
 #			#
@@ -268,7 +266,7 @@ sub Strate {
 }
 
 sub Urban {
-	# Ein Gespenst geht um in Europa - das Gespenst des ...
+	# Ein Gespenst geht um in Europa - das Gespenst des Kommunismus. Karl Marx
 	my $trans = Apparat(3);
 	Color(1253);
 	print "Ein $trans geht um in Europa - das $trans ";
