@@ -11,7 +11,9 @@ Was aus diesen Kreuzungen herauskommt, ist nicht vorhersehbar und damit vogelfre
 Es gibt verschiedene Wege, sich vom **dafbot** berieseln zu lassen:
 
 A. Eine Offline-Methode, hierzu bitte unten weiterlesen, Installatione etc.
+
 B. Eine Online-Methode, hierzu bitte diesem Link folgen: https://daf.adriangiacomelli.com/run.html
+
 C. Eine persönliche Anthologie, hierzu bitte diesem Link folgen: https://daf.adriangiacomelli.com/ant.html
 
 # Installation
