@@ -18,7 +18,7 @@ C. Eine persönliche Anthologie, hierzu bitte diesem Link folgen: https://daf.ad
 
 # Installation
 
-1. Script **rundaf.pl** herunterladen, entweder hier auf Github oder hier: https://daf.adriangiacomelli.com/rundaf.pl
+1. Script **rundaf.pl** herunterladen, dies ist der Link
 
 2. Konsole öffnen; Linux-Nutzer wissen wie das geht, macOS-Nutzer öffnen das Programm "Terminal"
 
