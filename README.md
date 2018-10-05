@@ -10,7 +10,7 @@ Was aus diesen Kreuzungen herauskommt, ist nicht vorhersehbar und damit vogelfre
 
 Es gibt verschiedene Wege, sich vom **dafbot** berieseln zu lassen:
 
-A. Eine Offline-Methode, hierzu bitte unten weiterlesen, Installatione etc.
+A. Eine Offline-Methode, hierzu bitte unten weiterlesen, Installation etc.
 
 B. Eine Online-Methode, hierzu bitte diesem Link folgen: https://daf.adriangiacomelli.com/run.html
 
@@ -18,7 +18,7 @@ C. Eine persönliche Anthologie, hierzu bitte diesem Link folgen: https://daf.ad
 
 # Installation
 
-1. Script **rundaf.pl** herunterladen, dies ist der Link
+1. Script **rundaf.pl** herunterladen, dies ist der Link: https://github.com/agiacomelli/dafbot/blob/master/rundaf.pl
 
 2. Konsole öffnen; Linux-Nutzer wissen wie das geht, macOS-Nutzer öffnen das Programm "Terminal"
 
