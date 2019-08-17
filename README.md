@@ -1,6 +1,5 @@
 # dafbot
-
-(daf = *Deutsch als Fremdsprache*)
+# (DAF: Deutsch als Fremdsprache)
 
 **dafbot** ist ein Programm, das zufallsgesteuert Aphorismen generiert, indem das DAF-Basis-Vokabular mit Aphorismen einiger herausragender deutschen Denker (inkl. zweier Vertreter des *erweiterten deutschen Kulturkreises* i.e. das *Abendland*) gekreuzt werden.
 Die Auswahl des Vokabulars oblag nicht mir.
@@ -8,7 +7,7 @@ Die Auswahl der Sprüche hingegen schon. Dabei richtete sich mein Fokus auf solc
 
 Was aus diesen Kreuzungen herauskommt, ist nicht vorhersehbar und damit vogelfrei. Am besten man nehme die Sprüche beim Wort ohne jegliche Erwartungen an sie zu richten. In den allermeisten Fällen enthalten sie nur Wahres und Allzuwahres.
 
-Es gibt verschiedene Wege, sich vom **dafbot** berieseln zu lassen:
+Es gibt verschiedene Wege, sich von **dafbot** berieseln zu lassen:
 
 A. Eine Offline-Methode, hierzu bitte unten weiterlesen, Installation etc.
 
